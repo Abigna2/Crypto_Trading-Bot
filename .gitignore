@@ -1,0 +1,15 @@
+# Don't upload your secret keys
+.env
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore cache and temporary files
+__pycache__/
+*.pyc
+
+# Ignore log files
+*.log
+
+# Ignore test files
+testing.py
